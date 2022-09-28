@@ -10,6 +10,11 @@
       </a>
     </div>
     {% endif %}
+    {% if include.show_button == false && site.data.contact.address %}
+    <div style="padding-top: 5px"><strong>Address: </strong>
+        {{ site.data.contact.address }}
+    </div>
+    {% endif %}
   </div>
     {% if include.show_button %}
       <div class="call-box-bottom">

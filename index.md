@@ -1,13 +1,23 @@
 ---
-title: Jekyll Serif Theme
+title: Trieti Enterprises
 layout: home
-description: Jekyll Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
-intro_image: "images/illustrations/pointing.svg"
+description: Trieti Enterprises
+intro_image: "images/illustrations/home.jpeg"
+intro_image2: "images/illustrations/home2.jpeg"
+intro_image3: "images/illustrations/home3.jpeg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
 show_call_box: true
 ---
 
-# Serif - A Jekyll Business Theme.
+# Trieti Enterprises 
 
-Serif contains content types for a typical business website. The theme is fully responsive, blazing fast and artfully illustrated.
+We are manufacturers and suppliers of
+
+-- All types of G.I. French Door & Window Sections.
+
+-- Perforated Cable Tray, Raceways Ducts, Cable Glands And Lugs, Earthing Materials, Utility Panel Systems
+
+We offer competitive and best rates in the market.
+
+We are situated in Pune, Maharashtra, India
