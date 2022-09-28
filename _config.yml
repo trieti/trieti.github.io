@@ -1,5 +1,5 @@
-domain: trieti.github.io
-url: https://trieti.github.io
+domain: 'trieti.github.io'
+url: 'https://trieti.github.io'
 baseurl: '/'
 permalink: pretty
 title: 'Trieti Enterprises'
