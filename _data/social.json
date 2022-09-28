@@ -1,5 +1,10 @@
 [
   {
+    "name": "Facebook",
+    "link": "https://www.facebook.com/profile.php?id=100086264202990",
+    "image": "images/social/facebook.svg"
+  },
+  {
     "name": "LinkedIn",
     "link": "https://linkedin.com/trieti-enterprises",
     "image": "images/social/linkedin.svg"
