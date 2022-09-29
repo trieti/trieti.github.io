@@ -57,6 +57,16 @@
 		<g transform="matrix(2.4091682013749294 0 0 -2.4091682013749294 100.58708768241183 7.624587307992925)"  >
 <path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,90,165); fill-rule: nonzero; opacity: 1;"  paint-order="stroke"  transform=" translate(1.373, 10.106)" d="m 0 0 l -2.746 1.585 v -23.382 c 1.019 1.385 1.939 2.795 2.746 4.228 z" stroke-linecap="round" />
 </g>
+	<g transform="matrix(2.4091682013749294 0 0 -2.4091682013749294 74.11562931934446 -25.42528771049166)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,90,165); fill-rule: nonzero; opacity: 1;"  paint-order="stroke"  transform=" translate(-1.3729999999999998, 27.448)" d="M 0 0 V -19.234 V -53.31 l 2.183 -1.26 l 0.563 -0.326 v 8.591 v 27.877 v 19.842 z" stroke-linecap="round" />
+</g>
+	<g transform="matrix(2.4091682013749294 0 0 -2.4091682013749294 87.35208125133857 -37.068132912533486)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,90,165); fill-rule: nonzero; opacity: 1;"  paint-order="stroke"  transform=" translate(-1.373, 25.447)" d="m 0 0 v -23.865 v -29.444 l 2.746 -1.585 v 34.732 v 21.576 z" stroke-linecap="round" />
+</g>
+	<g transform="matrix(2.4091682013749294 0 0 -2.4091682013749294 100.58708768241183 -44.709773530474564)"  >
+<path style="stroke: none; stroke-width: 1; stroke-dasharray: none; stroke-linecap: butt; stroke-dashoffset: 0; stroke-linejoin: miter; stroke-miterlimit: 4; fill: rgb(0,90,165); fill-rule: nonzero; opacity: 1;"  paint-order="stroke"  transform=" translate(-1.373, 25.447)" d="m 0 0 v -28.28 v -25.029 l 1.337 -0.772 l 1.409 -0.813 v 30.207 v 26.101 z" stroke-linecap="round" />
+</g>
+
 </g>
 </g>
 </svg>
